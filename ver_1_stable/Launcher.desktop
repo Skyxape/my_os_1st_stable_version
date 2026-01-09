@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Launcher
+Comment=
+Exec=vncviewer localhost:1
+Icon=run-build
+Path=
+Terminal=false
+StartupNotify=false
