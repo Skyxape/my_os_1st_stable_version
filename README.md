@@ -1,4 +1,4 @@
-Raspberry Pi 3 - Bare Metal OS (v1.0.0-stable)
+# Raspberry Pi 3 - Bare Metal OS (v1.0.0-stable)
 
 Ce projet est une implémentation d'un système d'exploitation minimaliste fonctionnant en "Bare Metal" sur Raspberry Pi 3 (Architecture ARMv8-A). Il intègre un moteur graphique de base, un système de fichiers en RAM (ramdisk) et des applications utilitaires comme un éditeur de dessin (Paint) et un explorateur de fichiers.
 
